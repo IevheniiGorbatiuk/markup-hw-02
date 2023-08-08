@@ -108,3 +108,9 @@ a{
     text-transform: capitalize;
     color: var(--navyblue);
 }
+.team{
+    background-color: var(--cloud);
+}
+.li-team{
+    background-color: var(--white);
+}
