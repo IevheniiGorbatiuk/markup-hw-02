@@ -24,3 +24,43 @@ ul{
 a{
     text-decoration: none;
 }
+.logo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--iris);
+
+}
+.link{
+    text-decoration: none;
+}
+.studio{
+    color: var(--navyblue);
+}
+.list{
+    list-style: none;
+}
+.nav{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--navyblue);
+}
+.nav:hover,
+.nav:active,
+.mailph:hover,
+.mailph:active{
+    color: var(--ocean);
+}
+.contacts{
+    font-style: normal;
+}
+.mailph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate);
+}
