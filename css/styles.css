@@ -15,7 +15,8 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    
+    color: var(--slate);
+    background-color: var(--white);
 }
 ul{
     list-style-type: none;
