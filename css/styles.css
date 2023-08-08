@@ -37,7 +37,7 @@ a{
 .link{
     text-decoration: none;
 }
-.studio{
+.studio-h{
     color: var(--navyblue);
 }
 .list{
@@ -113,4 +113,15 @@ a{
 }
 .li-team{
     background-color: var(--white);
+}
+.footer{
+    background-color: var(--navyblue);
+}
+.studio-f{
+    color: var(--cloud);
+}
+.footer-text{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--cloud);
 }
