@@ -51,9 +51,9 @@ a{
     color: var(--navyblue);
 }
 .nav:hover,
-.nav:active,
+.nav:focus,
 .mailph:hover,
-.mailph:active{
+.mailph:focus{
     color: var(--ocean);
 }
 .contacts{
